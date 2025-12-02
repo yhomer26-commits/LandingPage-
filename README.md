@@ -1,2 +1,2 @@
-# LandingPage-
+# LandingPage
 Proyecto Integrador Figma
